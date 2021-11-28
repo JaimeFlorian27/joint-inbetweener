@@ -1,5 +1,5 @@
 # Add a joint in the middle of two other joints
-# Created by Jaime Florian1
+# Created by Jaime Florian
 
 import maya.cmds as cmds
 import maya.api.OpenMaya as om2
